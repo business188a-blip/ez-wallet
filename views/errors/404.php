@@ -1,0 +1,1 @@
+<section class="container section center-text"><h1>404</h1><p>The page you requested could not be found.</p><a href="<?= base_url('index.php?route=home') ?>" class="btn btn-primary">Back to Home</a></section>
